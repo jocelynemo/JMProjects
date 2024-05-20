@@ -1,2 +1,2 @@
 # JMProjects
-This is Jocelyn's repository!!
+This is Jocelyn's repository.
